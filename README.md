@@ -1,5 +1,7 @@
 ## to use ecl_offline
 ```
+cd ecl_offline
+git checkout px4v1.8.2
 cd EKF
 mkdir Build/
 cd Build/
